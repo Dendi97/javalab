@@ -1,0 +1,9 @@
+{
+  "status": "OK",
+  "code": 200,
+  "services": {
+    "mysql": "running",
+    "kafka": "running",
+    "rabbitmq": "running"
+  }
+}
