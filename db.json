@@ -3,5 +3,21 @@
     { "service": "mysql", "status": "OK", "code": "200"},
     { "service": "kafka", "status": "OK", "code": "200"},
     { "service": "rabbitmq", "status": "OK", "code": "200"}
+  ],
+  "first-request": [
+    {
+      "userId": 1,
+      "id": 1,
+      "title": "delectus aut autem",
+      "completed": false
+    }
+  ],
+  "second-request": [
+    {
+      "userId": 1,
+      "id": 2,
+      "title": "quis ut nam facilis et officia qui",
+      "completed": false
+    }
   ]
 }
